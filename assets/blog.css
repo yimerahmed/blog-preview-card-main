@@ -20,14 +20,14 @@ body{
     height: auto;
 }
 .outer{
-        margin: 217px 527px;  
-        width: 384px;
-        height: 88vh;
-    background-color: #FFFFFF; 
-    
-    /* height: 522px; */
-    border-radius: 25px;
-    box-shadow: 10px 10px 0 0 black;
+    margin: 217px 527px;  
+    width: 384px;
+background-color: #FFFFFF; 
+/* padding: 25px; */
+height: 522px;
+border-radius: 25px;
+box-shadow: 10px 10px 0 0 black;
+padding-bottom: 35px;
     
 }
 .learning{
